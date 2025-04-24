@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: be38ef8c26631324198b73d6475ab4e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -973701201438646885
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_0
+  - first:
+      213: -201794345773571958
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_1
+  - first:
+      213: 4686111616893273081
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_2
+  - first:
+      213: 2703307996265565183
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_3
+  - first:
+      213: -282860784253366277
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_4
+  - first:
+      213: -2076869144411164596
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_5
+  - first:
+      213: -7146272781215609936
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_6
+  - first:
+      213: 5936744342863660459
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_7
+  - first:
+      213: -1518719147992338591
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_8
+  - first:
+      213: -8283277088190975523
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_9
+  - first:
+      213: 7778419043532122629
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_10
+  - first:
+      213: -594524866798247088
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_11
+  - first:
+      213: -9283323018773273
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_12
+  - first:
+      213: 568748324346301782
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_13
+  - first:
+      213: 1597262456046125063
+    second: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 622
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dd0ea8ae7bc72f0800000000000000
+      internalID: -973701201438646885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 640
+        width: 166
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80eb769c15133df0800000000000000
+      internalID: -201794345773571958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 624
+        width: 179
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f341ceffa9680140800000000000000
+      internalID: 4686111616893273081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 608
+        width: 264
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbc1e3cc44148520800000000000000
+      internalID: 2703307996265565183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 492
+        width: 234
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff80b98d93131cf0800000000000000
+      internalID: -282860784253366277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 490
+        width: 184
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c403762548a7d23e0800000000000000
+      internalID: -2076869144411164596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 494
+        width: 155
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbc99f94c653dc90800000000000000
+      internalID: -7146272781215609936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 340
+        width: 148
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5c2be868d836250800000000000000
+      internalID: 5936744342863660459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 337
+        width: 178
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f255e3bfc6ceae0800000000000000
+      internalID: -1518719147992338591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 351
+        width: 245
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1be3eff53eb0d80800000000000000
+      internalID: -8283277088190975523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 346
+        width: 179
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aadd388ee72fb60800000000000000
+      internalID: 7778419043532122629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 42
+        width: 155
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053aa5898c2dfb7f0800000000000000
+      internalID: -594524866798247088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 53
+        width: 164
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec712dedd40fdff0800000000000000
+      internalID: -9283323018773273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 38
+        width: 143
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d824f669994e700800000000000000
+      internalID: 568748324346301782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 45
+        width: 154
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70082b9bdbd9a2610800000000000000
+      internalID: 1597262456046125063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_0: -973701201438646885
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_1: -201794345773571958
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_10: 7778419043532122629
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_11: -594524866798247088
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_12: -9283323018773273
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_13: 568748324346301782
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_14: 1597262456046125063
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_2: 4686111616893273081
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_3: 2703307996265565183
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_4: -282860784253366277
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_5: -2076869144411164596
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_6: -7146272781215609936
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_7: 5936744342863660459
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_8: -1518719147992338591
+      123-1237024_svg-library-candyland-candy-clipart-candies-illustration-hd-Photoroom_9: -8283277088190975523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
